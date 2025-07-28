@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_name: MyString
+  freight: 9.99
+  ship_name: MyString
+  ship_country: MyString
+
+two:
+  customer_name: MyString
+  freight: 9.99
+  ship_name: MyString
+  ship_country: MyString
